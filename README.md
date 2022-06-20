@@ -37,7 +37,7 @@ allprojects {
   ```
   >For Joining Telegram
   ```java
-	  SupportMe.ClickDialog(MainActivity.this,4,"Join our Telegram","Click to join our Telegram group","https://t.me/techseya");
+	   SupportMe.ClickDialog(MainActivity.this,4,"Join our Telegram","Click to join our Telegram group","https://t.me/techseya");
 	  
 
 

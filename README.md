@@ -14,18 +14,15 @@ allprojects {
   >Step 2. Add the dependency
   ```gradle
   dependencies {
-	        implementation 'com.github.techseya:SupportMe:1.0.0'
+	        implementation 'com.github.techseya:NetworkDetector:0.0.1'
 	}
   ```
   ### Usage 
  
-  >Popup window with buttons
+  >For any social media subscription or Rate Us Popup
   ```java
-  NetworkDetector.Detector(this,"Searching for Network","Network connection not found...");
-  ```
-  >Progress dialog with animation
-  ```java
-  NetworkDetector.ProgressDetector(this,MainActivity.this,"Searching for network","Network connection not found...");
+          SupportMe.ClickDialog(context,4,"Subscribe Me","Subscribe my You Tube channel","https://www.youtube.com/c/Techseya");
+
   ```
   # Preview
  

@@ -45,13 +45,13 @@ allprojects {
 
 
   ```
-| Params   |      Use Case | 
-|----------|:-------------:|
-|(1) Context |  Activity Name.this(Defines Context) |
-|(2) Count |   User needs this number of app launches to see the dialog  |   
-|(3) Title | Alert Dialog Title | 
-|(4) Message | Alert Dialog Message | 
-|(5) Url | Url of the social media platform or chanel link | 
+|Param number  | Parameter   |      Use Case | 
+|-----|----------|:-------------:|
+| 1 | Context |  Activity Name.this(Defines Context) |
+|2  | Count |   User needs this number of app launches to see the dialog  |   
+| 3 | Title | Alert Dialog Title | 
+| 4 | Message | Alert Dialog Message | 
+| 5 | Url | Url of the social media platform or chanel link | 
    
   
   _Intellectual property of ©Techseya 2022_

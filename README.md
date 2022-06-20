@@ -22,14 +22,16 @@ allprojects {
  
   >For YouTube Subscription
   ```java
-          SupportMe.ClickDialog(MainActivity.this,4,"Subscribe Me","Subscribe my You Tube channel","https://www.youtube.com/c/Techseya");
+          
+	  SupportMe.ClickDialog(MainActivity.this,4,"Subscribe Me","Subscribe my You Tube channel","https://www.youtube.com/c/Techseya");
 	  
 
 
   ```
   >For Rating app in Google Play
   ```java
-          SupportMe.ClickDialog(MainActivity.this,4,"Rate App","If you are satifieid,please rate our app","https://rb.gy/9msah2");
+          
+	  SupportMe.ClickDialog(MainActivity.this,4,"Rate App","If you are satifieid,please rate our app","https://rb.gy/9msah2");
 	 
 	  
 
@@ -37,6 +39,7 @@ allprojects {
   ```
   >For Joining Telegram
   ```java
+	   
 	   SupportMe.ClickDialog(MainActivity.this,4,"Join our Telegram","Click to join our Telegram group","https://t.me/techseya");
 	  
 

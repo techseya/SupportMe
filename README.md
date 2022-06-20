@@ -21,7 +21,7 @@ allprojects {
  
   >For any social media subscription or Rate Us Popup
   ```java
-          SupportMe.ClickDialog(context,4,"Subscribe Me","Subscribe my You Tube channel","https://www.youtube.com/c/Techseya");
+         SupportMe.ClickDialog(context,4,"Subscribe Me","Subscribe my You Tube channel","https://www.youtube.com/c/Techseya");
 	  SupportMe.ClickDialog(context,4,"Rate App","If you are satifieid,please rate our app","https://rb.gy/9msah2");
 	  SupportMe.ClickDialog(context,4,"Join our Telegram","Click to join our Telegram group","https://t.me/techseya");
 

@@ -3,7 +3,7 @@
 ## Need minSDK of 22 for working properly
 
  ### Setup
->Step 1. Add the JitPack repository to your Settings.gradle
+>Step 1. Add the JitPack repository to your settings.gradle
 ```gradle
 allprojects {
 		repositories {

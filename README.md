@@ -45,11 +45,11 @@ allprojects {
 
 
   ```
-  # Preview
- 
-  <img src="app/src/main/res/drawable/image2.gif" width="400" >
-  <img src="app/src/main/res/drawable/image.gif" width="400" >
-  
+| Params   |      Use Case | 
+|----------|:-------------:|
+| col 1 is |  left-aligned |
+| col 2 is |    centered   |   
+| col 3 is | right-aligned |  
    
   
   _Intellectual property of ©Techseya 2022_

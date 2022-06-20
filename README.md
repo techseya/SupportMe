@@ -47,9 +47,11 @@ allprojects {
   ```
 | Params   |      Use Case | 
 |----------|:-------------:|
-| col 1 is |  left-aligned |
-| col 2 is |    centered   |   
-| col 3 is | right-aligned |  
+|(1) Context |  Activity Name.this(Defines Context) |
+|(2) Count |   User needs this number of app launches to see the dialog  |   
+|(3) Title | Alert Dialog Title | 
+|(4) Message | Alert Dialog Message | 
+|(5) Url | Url of the social media platform or chanel link | 
    
   
   _Intellectual property of ©Techseya 2022_

@@ -15,7 +15,7 @@ allprojects {
   >Step 2. Add the dependency
   ```gradle
   dependencies {
-	        implementation 'com.github.techseya:NetworkDetector:0.0.1'
+	        implementation 'com.github.techseya:SupportMe:1.0.0'
 	}
   ```
   ### Usage 
@@ -55,4 +55,4 @@ allprojects {
    
   
   _Intellectual property of ©Techseya 2022_
-  _NISALA FERNANDO AND VISHWA SITHUMINA_
+  
